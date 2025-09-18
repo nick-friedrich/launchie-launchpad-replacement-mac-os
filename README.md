@@ -9,7 +9,7 @@ For more details visit [https://www.launchie.app](www.Launchie.app)
 This Repo only contains the app and not the source code. I am offering the app here for free, but it will also be released on the Mac Appstore. 
 I am not sharing the code, because i don't want to get ripped of by other people, who steal code and sell it as their own.
 
-##
+## V 1.0.3:
 - Fixed a lot of issues with performance and some minor bugs.
 
 ## V 1.0:
