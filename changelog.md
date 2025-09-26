@@ -1,3 +1,8 @@
+## 1.0.7
+
+- Added drag scroll functionality
+- Minor improvements
+
 ## 1.0.6
 
 - Fixed Text Size under App Icons
