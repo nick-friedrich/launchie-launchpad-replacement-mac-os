@@ -1,3 +1,17 @@
+## 1.0.8
+
+- Fixed Folder Creation and Rename: Enter and Escape now work as expected
+- Improved Global Search: Now shows all apps and folders with visual context indicators
+- Added Search Restoration: Search query is preserved when entering and exiting folders
+- Added App Reordering in Folders: Apps within folders can now be rearranged via drag and drop
+- Fixed Folder Icon Preview: Folder icons now show apps in the correct custom order
+- Added Folder Preview Settings: Choose between 4, 9, or 16 app icons in folder previews
+- Redesigned Settings UI: More professional and unified appearance with better visual hierarchy
+- Fixed Settings Layout: Larger window size and improved spacing to prevent text wrapping issues
+- Improved Drag & Drop Targeting: Extended invisible hit areas to the left of icons for easier dropping, plus direct icon dropping still works
+- Added Hover Indicators: A subtle visual indicator appears when hovering over items during drag and drop operations
+- Added App Context Menu with Send to Folder function.
+
 ## 1.0.7
 
 - Added drag scroll functionality
