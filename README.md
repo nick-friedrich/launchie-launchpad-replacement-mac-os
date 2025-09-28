@@ -12,3 +12,6 @@ I am not sharing the code, because i don't want to get ripped of by other people
 
 It is my first MacOS App so be kind :) 
 If you find anything not working, open a issue here on Github.
+
+
+<img width="1470" height="785" alt="Bildschirmfoto 2025-09-28 um 07 38 31" src="https://github.com/user-attachments/assets/457b194e-379e-4dfc-a9bc-835a9ed59b3d" />
