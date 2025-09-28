@@ -1,3 +1,10 @@
+## 1.0.9
+
+- Fixed an issue that was causing the app order to be scrambled when you install or uninstall an app.
+- Fixed an issue where the window couldn't be reopened when it was closed by clicking outside of it.
+- Added a add to dock helper in the settings and the menu bar.
+- Added "Open in Finder" to the app context menu.
+
 ## 1.0.8
 
 - Fixed Folder Creation and Rename: Enter and Escape now work as expected
