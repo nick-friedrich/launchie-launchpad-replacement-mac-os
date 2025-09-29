@@ -1,3 +1,11 @@
+## 1.0.10
+
+- Fixed an issue where the app order was not being saved when you create a new folder.
+- Localized app names
+- Mouse back button works now for going back from folder to root level
+- fixed grant user appfolder permission button
+- fixed an issue which causes the root level order to get scrambled when you dismissed the app while beeing in a folder.
+
 ## 1.0.9
 
 - Fixed an issue that was causing the app order to be scrambled when you install or uninstall an app.
