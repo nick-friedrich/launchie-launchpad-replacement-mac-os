@@ -1,3 +1,11 @@
+## 1.0.11
+
+- Added Start at Login option in the settings.
+- Refactored a lot of the codebase to be more modular and easier to maintain
+- Added Animations when window is opened and closed
+- Added Animations when items appear in the window
+- Added Settings for Animation Level of the items
+  
 ## 1.0.10
 
 - Fixed an issue where the app order was not being saved when you create a new folder.
