@@ -6,8 +6,10 @@ Apple removed icon rearranging and folders from Launchpad in macOS 26 Tahoe. Lau
 For more details visit [www.launchie.app](https://www.launchie.app)
 
 
-This Repo only contains the app and not the source code. I am offering the app here for free, but it will also be released on the Mac Appstore. 
+This Repo only contains the app and not the source code. I am offering the app here for free, but it will also be released on the Mac AppStore. 
 I am not sharing the code, because i don't want to get ripped of by other people, who steal code and sell it as their own.
+
+[![Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917](https://github.com/user-attachments/assets/d1fe1228-71ff-4048-aeab-f0dd19f9f5c8)](https://apps.apple.com/de/app/launchie/id6752657468?mt=12)
 
 
 It is my first MacOS App so be kind :) 
