@@ -1,3 +1,16 @@
+## 1.2.0
+
+- Added font customization for app and folder names in grid view (including Quick Access section) with three size options (Small, Normal, Large), three font styles (System, Rounded, Monospaced), and a bold text option.
+- Added most used apps to the quick access section.
+- Added Quit App button to the settings.
+- Added General → Language selector with Auto (system), English, German, and Dutch options.
+- Localized App (English, German, Dutch). Please report wrong translations or missing translations. If you want Launchie to support your language, please contact me.
+- Inside of folders, apps can now freely arranged in the empty space.
+- Improved drag scroll functionality
+- New App Icon
+- Added Backup and Restore functionality for settings, hidden apps, and custom directories.
+
+
 ## 1.1.5
 
 - Fixed a bug where hidden apps would still show inside folders. Hidden apps are now properly filtered from folder contents and folder preview icons.
