@@ -1,3 +1,13 @@
+## 1.2.1
+
+- Added Sort Mode picker to the header. Launchie can now sort apps by name, newest, oldest, A-Z, Z-A, and most used.
+- Added Spanish translations.
+- Launchie now opens on the screen where the mouse is located, when using mulitple screens.
+- Window size control is now a precise slider (40%–90%) for fine-grained adjustments.
+- Added folder spacing controls to disable empty slots, instantly close gaps, and explain how free icon placement works.
+- Fixed a bug where the app would crash when opening a folder with more than 52 apps.
+
+
 ## 1.2.0
 
 - Added font customization for app and folder names in grid view (including Quick Access section) with three size options (Small, Normal, Large), three font styles (System, Rounded, Monospaced), and a bold text option.
